@@ -1,7 +1,3 @@
-## test mudole
-- [x] list1
-- [ ] list2
-
 # Let's encrypt
 ### https://certbot.eff.org/#ubuntuxenial-nginx
   ```
